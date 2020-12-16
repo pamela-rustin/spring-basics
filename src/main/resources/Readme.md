@@ -1,0 +1,2 @@
+Issue: If suddenly in eclipse class not found exception starts coming for Dispatcher Servlet 
+Sol: Right click on Projects and goto properties, then on Deployment Assembly. Click Add .. -> Java Build Path --> Maven Dependencies. Click Ok, Clean Project and try again
